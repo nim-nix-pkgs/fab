@@ -11,6 +11,7 @@
   inputs.src-fab-master.ref   = "refs/heads/master";
   inputs.src-fab-master.owner = "icyphox";
   inputs.src-fab-master.repo  = "fab";
+  inputs.src-fab-master.dir   = "";
   inputs.src-fab-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

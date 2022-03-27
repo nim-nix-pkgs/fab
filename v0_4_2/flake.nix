@@ -11,6 +11,7 @@
   inputs.src-fab-v0_4_2.ref   = "refs/tags/v0.4.2";
   inputs.src-fab-v0_4_2.owner = "icyphox";
   inputs.src-fab-v0_4_2.repo  = "fab";
+  inputs.src-fab-v0_4_2.dir   = "";
   inputs.src-fab-v0_4_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
