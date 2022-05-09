@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/icyphox/fab",
   "refs": [
-    "fatal: unable to access 'https://github.com/icyphox/fab/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/icyphox/fab/': Failed to connect to github.com port 443 after 1854 ms: No route to host",
     ""
   ],
   "heads": []
